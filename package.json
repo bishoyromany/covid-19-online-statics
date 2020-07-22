@@ -1,1 +1,9 @@
 
+{
+  "name": "covid-19-online-statics",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/",
+  "dependencies": {},
+  "scripts": {}
+}
